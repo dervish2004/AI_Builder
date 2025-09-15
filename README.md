@@ -4,7 +4,7 @@ This project is a prototype of a platform that enables non-technical users to cr
 
 <br>
 
-Key Technologies 💻
+* Key Technologies 💻
 
 Next.js 14: A production-ready React framework for building full-stack applications.
 
@@ -18,7 +18,7 @@ Node.js: The JavaScript runtime environment used for the backend logic.
 
 <br>
 
-Getting Started 🚀
+* Getting Started 🚀
 
 Follow these steps to get a copy of the project running on your local machine for evaluation.
 
@@ -63,7 +63,7 @@ npm run build
 npm start
 <br>
 
-How to Use the Application 🌐
+* How to Use the Application 🌐
 
 Once the application is running, you can begin creating a web page using the drag-and-drop interface.
 
@@ -89,13 +89,13 @@ The application provides a real-time preview of your web page as you build it. Y
 
 <br>
 
-Project Status
+* Project Status
 
 This prototype is a working MVP that successfully demonstrates the core functionality of the platform. All major features, including the drag-and-drop interface, AI-assisted code generation, and database integration, have been implemented and tested.
 
 <br>
 
-Contact
+* Contact
 
 Name: Dervish Talari
 GitHub: dervish2004
