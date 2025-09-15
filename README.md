@@ -85,7 +85,7 @@ Use the integrated AI assistant to generate code snippets or content. For exampl
 
 The application provides a real-time preview of your web page as you build it. You can see how your design looks instantly without needing to refresh the page.
 
-  \\\  ***  Please check the AI-Builder (demo video) for a quick walkthrough.  ***  ////
+  \\  ***  Please check the AI-Builder (demo video) for a quick walkthrough.  ***  //
 
 <br>
 
